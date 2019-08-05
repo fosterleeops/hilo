@@ -23,4 +23,4 @@ while guess != the_number:
 
 print('done')
 
-# fosterleeops/hilo-14 speed runK
+# fosterleeops/hilo-14 speed run
